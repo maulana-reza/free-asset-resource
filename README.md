@@ -2,6 +2,9 @@
 All on bellow is free resource
 ## source 
 [![](http://img.youtube.com/vi/A1-pyF75Ro4/0.jpg)](http://www.youtube.com/watch?v=A1-pyF75Ro4 "")
+[![](http://img.youtube.com/vi/A1-pyF75Ro4/0.jpg)](https://www.youtube.com/watch?v=8r6rvKBD564 "")
+[![](http://img.youtube.com/vi/A1-pyF75Ro4/0.jpg)](https://www.youtube.com/watch?v=pi2INJ47ayM "")
+
 ## list
 
  - https://undraw.co
@@ -13,3 +16,9 @@ All on bellow is free resource
  - https://www.flaticon.com 
  - https://iconfinder.com
  - https://thenounproject.com
+ - https://www.openpeeps.com/
+ - https://www.opendoodles.com/
+ - https://usesmash.com/
+ - https://illlustrations.co/
+ - https://stubborn.fun/
+ - https://www.manypixels.co/
